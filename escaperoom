@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="../css.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <title>Escape room</title>
+</head>
+<body>
+  <header>
+    <nav>
+      <ul class="nav">
+        <li><a href="../index.html">Hjem</a></li>
+        <li><a href="Internett.html">Internett</a></li>
+        <li><a href="tutorial.html">English tutorial</a></li>
+        <li><a href="andsverkloven.html">Åndsverkloven</a></li>
+        <li><a href="escaperoom.html">Digital Escaperoom</a></li>
+        <li><a href="videoer.html">Videoer</a></li>
+        <li><a href="spill.html">Spill</a></li>
+        <li><a href="kilder.html">Kilder</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Tekst -->
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSel_xfclqyUKCcUtVeGgeyShS13zac4jKPyM4-c_i0e2sAmdQ/viewform?embedded=true" width="1200" height="950" frameborder="0" marginheight="0" marginwidth="0">Laster inn …</iframe>
+    
+</body>
+</html>

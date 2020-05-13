@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="../css.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <title>Åndsverkloven</title>
+</head>
+<body>
+  <header>
+    <nav>
+      <ul class="nav">
+        <li><a href="../index.html">Hjem</a></li>
+        <li><a href="Internett.html">Internett</a></li>
+        <li><a href="tutorial.html">English tutorial</a></li>
+        <li><a href="andsverkloven.html">Åndsverkloven</a></li>
+        <li><a href="escaperoom.html">Digital Escaperoom</a></li>
+        <li><a href="videoer.html">Videoer</a></li>
+        <li><a href="spill.html">Spill</a></li>
+        <li><a href="kilder.html">Kilder</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Tekst -->
+    <h2> Oppgave i Frode sitt fag</h2>
+  <div class="tutorial1">
+      <iframe class="tutorial2"  allowfullscreen src="../Andsverksloven.pdf">Tutorial laster</iframe>
+    </div>
+     
+    <h2>Åndsverkloven</h2>
+    <p class="p"> Åndsverkloven i Norge ble sist endret og satt i kraft 1. juli 2018, den ble vedtatt 15. juni 2018. Åndsverkloven i Norge er den sentrale lov innenfor rettsområdet opphavsrett. Loven forbyr uautorisert kopiering av skapere sitt åndsverk men gir opphavspersonen eierskap til verket/verkene sine.</p>
+    <p class="p">Loven regulerer også de såkalte nær stående rettighetene i tillegg til egentlig opphavsrett. Det betyr rettigheter som er relatert til opphavsrett.</p>
+    <p class="p">Kalalogvernet er blant annet viktig retigheter innen denne gruppen pluss databasevern. Rettigheter er også viktige til fotogratirett, sitatrett og pressemeldinger.</p>
+</body>
+</html>
